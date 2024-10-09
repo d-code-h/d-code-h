@@ -1,6 +1,6 @@
 # Hello, I'm Yunus Habeeb! 👋
 
-![Profile Banner](https://github.com/d-code-h/d-code-h/blob/main/assets/banner.jpg)
+![Profile Banner](https://raw.githubusercontent.com/d-code-h/d-code-h/main/assets/banner.jpg)
 
 I'm a **Cyber Security Science graduate** 🎓 with **First-Class Honors** and a **MERN stack developer** ⚡️ passionate about building scalable web applications. I love solving complex problems and constantly exploring new technologies, currently focusing on **Next.js** and **React Native**.
 
