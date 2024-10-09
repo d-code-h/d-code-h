@@ -65,6 +65,6 @@ I'm always open to discussing new projects, opportunities, or even just chatting
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/d-code-h)
 <!-- - 🌐 [Portfolio](https://d-code-h.github.io) _(Coming Soon!)_ -->
-- ✉️ [Email](mailto:habeebdh1@gmail.com)
+- ✉️ [Email](mailto:habeebdh1@outlook.com)
 <!-- - 🐦 [Twitter](https://twitter.com/d-code-h) -->
 - 💻 [GitHub](https://github.com/d-code-h)
