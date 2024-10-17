@@ -1,6 +1,11 @@
-# Hello, I'm Yunus Habeeb! 👋
+<h1 align="center">
+  Hello, I'm Yunus Habeeb! 👋 
+</h1>
 
-![Profile Banner](https://raw.githubusercontent.com/d-code-h/d-code-h/main/assets/banner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d-code-h/d-code-h/main/assets/banner.jpg" alt="Profile Banner" />
+</p>
+
 
 I'm a **Cyber Security Science graduate** 🎓 with **First-Class Honors** and a **MERN stack developer** ⚡️ passionate about building scalable web applications. I love solving complex problems and constantly exploring new technologies, currently focusing on **Next.js** and **React Native**.
 
@@ -32,6 +37,7 @@ I'm a **Cyber Security Science graduate** 🎓 with **First-Class Honors** and a
 
 - 🎓 **First-Class Honors** in Cyber Security Science from Federal University of Technology, Minna
 - 💻 **Hacktoberfest 2024 Participant** – Earned my first badge for contributing to open-source projects
+
    [![An image of @dcodeh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dcodeh)](https://holopin.io/@dcodeh)
 
 - 🏅 **Cisco Cybersecurity Scholarship Recipient** – Awarded a scholarship to complete the **Cisco Cybersecurity course** certification, earning 9 certificates including:
